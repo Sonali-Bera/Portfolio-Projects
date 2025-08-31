@@ -1,0 +1,23 @@
+RetailCo Customer Segmentation Analysis
+
+📌 Problem Statement
+RetailCo operates multiple retail stores across different regions. Recently, management has noticed slowing customer growth and inconsistent repeat purchase behavior. They suspect that different customer groups have very different buying patterns, but they have never formally segmented their customer base.
+They’ve shared with you their customer transaction data (Customer Segmentation dataset) and want you to:
+1. Identify distinct customer segments.
+2. Understand each segment’s behavior and value to the company.
+3. Recommend targeted marketing actions to improve retention and sales
+
+📊 Deliverables
+- Excel-based segmentation analysis (`/excel/RetailCo_Customer_Segmentation_Analysis.xlsx`)
+- Visualizations and pivot tables of customer groups
+
+💡 Marketing Actions
+
+
+
+
+
+🔧 Tools Used
+- Excel (Pivot Tables, Charts, Formulas)
+- GitHub for versioning & sharing
+
