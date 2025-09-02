@@ -7,19 +7,25 @@ They’ve shared with you their customer transaction data (Customer Segmentation
 2. Understand each segment’s behavior and value to the company.
 3. Recommend targeted marketing actions to improve retention and sales
 
+
 📊 Deliverables
 - Excel-based segmentation analysis 
 [Download the Excel Analysis](./excel/RetailCo_Customer_Segmentation_Analysis.xlsx)
 
-- Visualizations and pivot tables of customer groups
 
 ## 📊 RetailCo Customer Segmentation
-
 - Excel file: [Download Excel Analysis](https://github.com/Sonali-Bera/Portfolio-Projects/blob/eb53475299317e964de38541cfef8646b4ff2a0a/excel/RetailCo_Customer_Segmentation_Analysis.xlsx)
 
 
 💡 Marketing Actions
-
+1. The highest revenue-earning segment is females aged 55–64 (21,000) and males aged 45–54 (18,850). 
+   Despite contributing the most to revenue, these groups show low-to-medium purchase frequency, meaning their high spend is driven by fewer, larger transactions. - Introduce a premium loyalty program for older high-value customers (e.g., exclusive bundles, early access, personal shopping support).
+2. Meanwhile, younger segments (18–34) contribute less revenue but purchase more frequently, indicating potential for long-term retention. - Introduce subscription models or repeat-purchase incentives (e.g., points system, cashback offers)
+3. Monthly profits shows a positive upward trend, with female customers being the largest contributors to sustained growth.
+4. Toys (sold in Australia and managed by Liam Brown) is the top-selling category, accounting for 22% of revenue; followed by clothing, groceries, furniture, and electronics.
+ - For Toys (sold in Australia & female population being the highest purchaser group), could expand cross-sell opportunities (e.g., bundle toys with kids’ clothing or educational products, contribute a percentage of sales to a child-related cause, do family-focused marketing).
+ - For Clothing (sold in South America & male segment dominating this space), promote seasonal collections, sportswear, workleisure and limited-time offers/drops.
+ - For lagging categories like Electronics/Furniture, test bundled offers, influencer marketing or installment payment plans to boost adoption.
 
 
 🔧 Tools Used
