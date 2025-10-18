@@ -1,7 +1,15 @@
 Avocado Prices Analysis
 
 📌 Problem Statement
+Our client, a national avocado distributor, is experiencing fluctuating sales and inconsistent pricing across different regions. They want to understand how pricing, product type, and regional demand patterns are influencing their overall performance.
 
+Specifically, they want us to:
+1. Identify key sales trends over time (weekly, monthly, yearly)
+2. Compare performance across regions to find high-performing and underperforming markets.
+3. Analyze product mix (Conventional vs. Organic) to understand changing consumer preferences.
+4. Measure the impact of price changes on sales volume to support smarter pricing decisions.
+5. Create an interactive dashboard that allows executives to drill down into sales and price insights by region, product type, and time period.
+The goal is to equip the client with actionable insights that can guide pricing strategy, regional expansion, and product mix optimization.
 
 
 📊 Deliverables
