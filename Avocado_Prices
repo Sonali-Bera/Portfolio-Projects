@@ -21,7 +21,19 @@ The goal is to equip the client with actionable insights that can guide pricing 
 
 
 💡 Marketing Actions
+1. Sales Trend Over Time
+   Avocado sales volume has shown a steady year-on-year increase, indicating expanding demand. Across all years, Q2 consistently outperforms other quarters, with May as the peak month — likely driven by seasonal consumption patterns (e.g., Cinco de Mayo, summer events)
 
+2. Regional Performance
+   The top 5 high-performing markets are West, California, South Central, Northeast, and Southeast. California and West together contribute a substantial share of total volume — showing strong western dominance.
+   However, the Midsouth & Great Lakes are the lagging regions; this low sales performance could be due to factors related to pricing, distribution coverage or regional preferences.
+
+3. Product-Mix Analysis
+   Conventional avocados are the main driver of revenue, accounting for ~97% of sales volume. And though, Organic avocados accounting for only 3% of the total revenue stream, may show faster growth rate in specific regions — signaling a premiumization trend or rising health-conscious demand.
+
+4. Price-Volume Relationship
+   The demand is very inelastic (negative correlation). Though sales increase with price until around $1.04 and then start diminishing, but the drop isn't that strong. This means that customers in some regions like the wealthier sections such as California, Northeast etc may not be price sensitive i.e. consumers may still buy avocados even when prices rise moderately. However, some price-sensitive regions like MidSouth, South Central may reduce consumption faster with the price increase.
+   In such a case, try to keep the price below $1.04 in order to maintain the sales volume. And in case of high price-periods, offer discounts or leverage seasonal spikes like May month. A good way to try this out is to test small price increases in premium markets, where the customers are less elastic.
 
 
 🔧 Tools Used
